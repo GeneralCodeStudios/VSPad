@@ -1,0 +1,13 @@
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\bin\Debug\VSPad.exe.config
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\bin\Debug\VSPad.exe
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\bin\Debug\VSPad.pdb
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\bin\Debug\VSPad.xml
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.vbproj.AssemblyReference.cache
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.Form1.resources
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.Form2.resources
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.Resources.resources
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.vbproj.GenerateResource.cache
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.vbproj.CoreCompileInputs.cache
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.exe
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.xml
+C:\Users\Averi Gonzalez\source\repos\VSPad\VSPad\obj\Debug\VSPad.pdb
